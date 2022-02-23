@@ -3,7 +3,7 @@ package misClases;
 public class Main {
 
 	public static void main(String[] args) {
-		  String palabra = "contreras";
+		  String palabra = "polevedroN";
 		    System.out.println(invertirPalabra(palabra, palabra.length()-1));
 		     
 		     
