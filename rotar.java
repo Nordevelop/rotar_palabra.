@@ -14,7 +14,7 @@ public class Main {
 		     
 		}
 		 
-		 public static String invertirPalabra(String palabra, int longitud){
+		 public static String invertirPalabra(String palabra, int longitud){ //metodo 
 		     
 		    if(longitud==0){
 		        return palabra.charAt(longitud)+"";
